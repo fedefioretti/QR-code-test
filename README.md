@@ -30,8 +30,8 @@ qr-code-component-main\qr-code-component-main\image designs\QR-Code-Test.png
 
 ### Links
 
-- Solution URL: [https://github.com/RedFive-StandingBy/QR-code-test/pull/new/master]
-- Live Site URL: [[Add live site URL here](https://fedefioretti.github.io/QR-code-test/)]
+- Solution URL: [[Github Repo](https://github.com/fedefioretti/QR-code-test)]
+- Live Site URL: [[QR Code Web](https://fedefioretti.github.io/QR-code-test/)]
 
 ## My process
 
