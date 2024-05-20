@@ -61,7 +61,7 @@ Surely I will continue developing in future projects, essentially to learn and a
 
 ## Author
 
-- Website - [Federico Fioretti](https://github.com/RedFive-StandingBy)
-- Frontend Mentor - [@RedFive-StandingBy](https://www.frontendmentor.io/profile/RedFive-StandingBy)
+- Website - [Federico Fioretti](https://github.com/fedefioretti)
+- Frontend Mentor - [@fedefioretti](https://www.frontendmentor.io/profile/fedefioretti)
 
 
